@@ -1,3 +1,6 @@
+#![allow(unused_imports, unused_macros, dead_code, non_local_definitions)]
+
+
 mod lessons;
 
 use std::env;
